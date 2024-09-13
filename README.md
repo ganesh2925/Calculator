@@ -1,6 +1,6 @@
 # Calculator Web Application
 ## Overview:
-This is a simple web-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is built using HTML, CSS, and JavaScript and works directly in a web browser.
+This simple web-based calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator uses HTML, CSS, and JavaScript and works directly in a web browser.
 
 ## Features:-
 Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
@@ -26,7 +26,7 @@ Open the index.html file in your web browser to start using the calculator.
 ## Project Structure
 
 
-``calculator-web-app/``<br>
+``calculator/``<br>
 ``│``<br>
 ``├── index.html     # Main HTML file for the calculator interface``<br>
 ``├── styles.css     # CSS file for styling the calculator``<br>
