@@ -43,5 +43,6 @@ Use the C or AC button to clear the current input.
 
 
 ### Future Improvements
-Add support for more advanced operations like square root, percentage, etc.
+
+Add support for more advanced operations like square root, percentage, etc.<br>
 Implement a history feature to keep track of past calculations.
