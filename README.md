@@ -26,7 +26,7 @@ Open the index.html file in your web browser to start using the calculator.
 ## Project Structure
 
 
-``calculator-web-app/<br>
+``calculator-web-app/<be>
 │
 ├── index.html     # Main HTML file for the calculator interface
 ├── styles.css     # CSS file for styling the calculator
